@@ -1,0 +1,13 @@
+ZhiyeAgent/
+│── master_memory.json             # 品牌全局长记忆
+│── memory_porcelain.json          # 瓷器类目专属长记忆
+│── memory_fabric.json             # 布艺类目专属长记忆
+│
+├── output/                        # 自动生成的按类目归档输出目录
+│   ├── porcelain/                 # 瓷器类目输出
+│   │   └── porcelain_20261107_.../
+│   │       ├── description.md
+│   │       └── product_image.png
+│   ├── fabric/                    # 布艺饰品与家居输出
+│   │   └── fabric_20261107_.../
+│   └── lacquer/                   # 大漆/金缮类目输出
